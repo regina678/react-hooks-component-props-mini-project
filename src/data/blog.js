@@ -1,4 +1,4 @@
-import logo from "../assets/logo";
+const logo = "https://via.placeholder.com/150";
 
 const blogData = {
   name: "Underreacted",
